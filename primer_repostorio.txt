@@ -1,4 +1,10 @@
 1git init
-2 git
-3 git
-4 git 
+2 git config --global user.name "nombre usuario"
+3 git config --global user.email "email del usuario"
+4 git status 
+5 git add . 
+6 git log
+7 git commit -m "nombre del commit"
+8 git push -u origin main
+9 git remote add origin https://github.com/Jhocedth22/primer_repositorio.git
+10 git branch -main
