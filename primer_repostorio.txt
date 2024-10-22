@@ -1,10 +1,10 @@
-1git init
-2 git config --global user.name "nombre usuario"
-3 git config --global user.email "email del usuario"
-4 git status 
-5 git add . 
-6 git log
-7 git commit -m "nombre del commit"
-8 git push -u origin main
-9 git remote add origin https://github.com/Jhocedth22/primer_repositorio.git
-10 git branch -main
+1 git init//inicia el programa 
+2 git config --global user.name "nombre usuario"//confirgura los nombres
+3 git config --global user.email "email del usuario"//configura el email
+4 git status //verifica el texto txt para ver si ya esta guardado
+5 git add . //guarda lo del txt o documnento 
+6 git log // mira cuantas modificaciones tiene el archivo 
+7 git commit -m "nombre del commit"//crea el commit dependiendo de su version 
+8 git push -u origin main//sube a la rama como origin main el commit 
+9 git remote add origin https://github.com/Jhocedth22/primer_repositorio.git//
+10 git branch -main// cambia de rama a main
