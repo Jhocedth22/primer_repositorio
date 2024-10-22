@@ -6,5 +6,5 @@
 6 git log // mira cuantas modificaciones tiene el archivo 
 7 git commit -m "nombre del commit"//crea el commit dependiendo de su version 
 8 git push -u origin main//sube a la rama como origin main el commit 
-9 git remote add origin https://github.com/Jhocedth22/primer_repositorio.git//
+9 git remote add origin https://github.com/Jhocedth22/primer_repositorio.git// enlace git con github 
 10 git branch -main// cambia de rama a main
